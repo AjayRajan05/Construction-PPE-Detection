@@ -67,19 +67,19 @@ Construction sites are high-risk environments, and enforcing proper **Personal P
 ## 🖼️ Sample Screenshots
 
 ### 🔍 Login Page
-![Login Page](screenshots/Screenshot (469).png)
+![Login Page](screenshots/Login.png)
 
 ### 🧠 Select Detection Type
-![Mode Selection](screenshots/Screenshot (470).png)
+![Mode Selection](screenshots/ModeSelection.png)
 
 ### 🎥 Image Detection
-![Image Detection](screenshots/Screenshot (471).png)
+![Image Detection](screenshots/ImageBased.png)
 
 ### 🎥 Video Detection
-![Video Detection](screenshots/Screenshot (472).png)
+![Video Detection](screenshots/VideoBased.png)
 
 ### 📈 Real-time Detection with Violation alert system and Dashboard
-![Real-time Detection](screenshots/Screenshot (473).png)
+![Real-time Detection](screenshots/Real-Time.png)
 
 ---
 

@@ -66,11 +66,20 @@ Construction sites are high-risk environments, and enforcing proper **Personal P
 
 ## 🖼️ Sample Screenshots
 
-> ⚠️ *(Screenshots Coming Soon)*  
-- UI of Streamlit App  
-- Detection Results  
-- Real-time Dashboard  
-- Violation Alert Pop-ups
+### 🔍 Streamlit UI
+![Streamlit UI](screenshots/ui.png)
+
+### 🧠 Image Detection Result
+![Image Detection](screenshots/image_detection.png)
+
+### 🎥 Video Detection Result
+![Video Detection](screenshots/video_detection.png)
+
+### 📈 Live Dashboard with Safety Score (SS)
+![Dashboard](screenshots/dashboard.png)
+
+### ⚠️ Violation Alert System
+![Alert System](screenshots/alert.png)
 
 ---
 

@@ -37,7 +37,7 @@ if not st.session_state.logged_in:
     password = st.text_input("Password", type="password")
 
     if st.button("Login"):
-        if username == "admin" and password == "safety123":
+        if username == "admin" and password == "shaj0416":
             st.session_state.logged_in = True
             st.rerun()
         else:
@@ -226,3 +226,7 @@ if st.session_state.detection_type:
 
             time.sleep(0.05)
 
+
+
+
+#SHA

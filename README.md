@@ -98,7 +98,7 @@ Through this project, I gained hands-on experience in:
 **Ajay Rajan A**  
 📍 Chennai, India  
 📧 [ajayrajan727@gmail.com](mailto:ajayrajan727@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/ajarajan05)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ajayrajan05/)  
 💻 [GitHub](https://github.com/AjayRajan05)
 
 ---
